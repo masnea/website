@@ -2,6 +2,5 @@
 ## my-website
 test token
 
-new editing on update-readme branch
-update locally
+Update made on master on Github before rebase
 
